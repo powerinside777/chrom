@@ -26,6 +26,7 @@ apps:
       - home
       - mount-observe
       - network
+      - maliit
       - network-manager
       - opengl
       - password-manager-service
